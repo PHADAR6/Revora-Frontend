@@ -1,0 +1,24 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "fix/752-notificationsdata-test",
+    "master",
+    "origin",
+    "test/issue-767-recent-networks-barrel",
+    "test/progressbar-behavior-766"
+  ],
+  "parent": {
+    "fix/752-notificationsdata-test": "master",
+    "master": null,
+    "origin": "master",
+    "test/issue-767-recent-networks-barrel": "master",
+    "test/progressbar-behavior-766": "master"
+  },
+  "order": [
+    "master",
+    "fix/752-notificationsdata-test",
+    "origin",
+    "test/issue-767-recent-networks-barrel",
+    "test/progressbar-behavior-766"
+  ]
+}
